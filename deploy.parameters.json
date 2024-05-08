@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "YourAppName"
+      "value": "ContactDatabaseApplication"
     },
     "appServicePlanName": {
-      "value": "YourAppServicePlanName"
+      "value": "ContactDatabaseApplicationServicePlan"
     },
     "location": {
-      "value": "YourAzureRegion"
+      "value": "eastus"
     }
   }
 }
