@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "ContactDatabaseApplication"
+      "value": "ContactDatabaseApplication-jonech"
     },
     "appServicePlanName": {
-      "value": "ContactDatabaseApplicationServicePlan"
+      "value": "ContactDatabaseApplicationServicePlan-jonech"
     },
     "location": {
       "value": "eastus"
