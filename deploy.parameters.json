@@ -8,12 +8,6 @@
     "appServicePlanName": {
       "value": "YourAppServicePlanName"
     },
-    "sqlServerName": {
-      "value": "YourSqlServerName"
-    },
-    "sqlDatabaseName": {
-      "value": "YourSqlDatabaseName"
-    },
     "location": {
       "value": "YourAzureRegion"
     }
