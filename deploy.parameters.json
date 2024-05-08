@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "appName": {
-      "value": "ContactDatabaseApplication-jonech"
+      "value": "ContactDatabaseApplication-github-cloudlabsuser-723"
     },
     "appServicePlanName": {
-      "value": "ContactDatabaseApplicationServicePlan-jonech"
+      "value": "ContactDatabaseApplicationServicePlan-github-cloudlabsuser-723"
     },
     "location": {
       "value": "eastus"
